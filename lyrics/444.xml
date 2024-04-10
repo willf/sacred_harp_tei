@@ -1,0 +1,31 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>All Saints New</title>
+        <author>Isaac Watts</author>
+        <composer>Amariah Hall</composer>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+<text>
+  <body>
+   <div n="444" met="8,8,8,8,8,8,8,8">
+    <title>All Saints New</title>
+    <!-- Do we duplicate these??? -->
+    <author>Isaac Watts</author>
+    <composer>Amariah Hall</composer>
+    <lg n="1" type="verse">
+      <l n="1">Oh, if my Lord would come and meet,</l>
+      <l n="2">My soul should stretch her wings in haste,</l>
+      <l n="3">Fly fearless through death’s iron gate,</l>
+      <l n="4">Nor feel the terrors as she passed.</l>
+      <l n="5">Jesus can make a dying bed</l>
+      <l n="6">Feel soft as downy pillows are,</l>
+      <l n="7">While on His breast I lean my head,</l>
+      <l n="8">And breathe my life out sweetly there.</l>
+    </lg>
+  </div>
+  </body>
+ </text>
+</TEI>

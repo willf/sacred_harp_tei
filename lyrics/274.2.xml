@@ -1,0 +1,36 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roll Jordan</title>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1" met="8,8">
+        <title>Roll Jordan</title>
+        <lg n="1" type="verse">
+          <l n="1">He comes! He comes! the Judge severe;</l>
+          <!-- How to notate that we ignore interrupting refrains? -->
+          <l n="2" type="interrupting">Roll, Jordan, roll;</l>
+          <l n="3">The seventh trumpet speaks Him near;</l>
+          <l n="4" type="interrupting">Roll, Jordan, roll.</l>
+        </lg>
+        <lg type="chorus" met="8,8">
+          <!-- How to normally say we don't want to attempt to syllable check choruses? -->
+          <l n="5">I want to go to heav’n, I do;</l>
+          <l n="6" type="interrupting">Hallelujah, Lord;</l>
+          <l n="7">We’ll praise the Lord in heav’n above;</l>
+          <l n="8" type="interrupting">Roll, Jordan, roll.</l>
+        </lg>
+        <lg n="2" type="verse">
+          <l n="9">His lightnings flash, His thunders roll;</l>
+          <l n="10" type="interrupting">Roll, Jordan, roll;</l>
+          <l n="11">How welcome to the faithful soul!</l>
+          <l n="12" type="interrupting">Roll, Jordan, roll.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

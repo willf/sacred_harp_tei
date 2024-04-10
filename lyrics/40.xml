@@ -1,0 +1,39 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lenox</title>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1" met="6,6,6,6,8,8">
+        <!-- Halleluiah meter includes the chorus. Interesting. -->
+        <title>Lenox</title>
+        <lg n="1" type="verse">
+          <l n="1">Blow ye the trumpet blow,</l>
+          <l n="2">The gladly solemn sound,</l>
+          <l n="3">Let all the nations know</l>
+          <l n="4">To earth’s remotest bound,</l>
+        </lg>
+        <lg type="chorus">
+          <l n="5">The year of jubilee is come;</l>
+          <l n="6">Return, ye ransomed sinners, home.</l>
+        </lg>
+        <lg n="2" type="verse">
+          <l n="7">Extol the Lamb of God,</l>
+          <l n="8">The all-atoning Lamb;</l>
+          <l n="9">Redemption through His blood</l>
+          <l n="10">Throughout the world proclaim;</l>
+        </lg>
+        <lg n="3" type="verse">
+          <l n="11">The Gospel trumpet hear,</l>
+          <l n="12">The news of heav’nly grace;</l>
+          <l n="13">And saved from earth, appear</l>
+          <l n="14">Before your Savior’s face;</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
