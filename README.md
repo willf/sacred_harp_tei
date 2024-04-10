@@ -7,6 +7,6 @@ Questions:
 - Do we repeat title/author/composer in the metadata and in the text?
 - Does having each song be a separate document make sense?
 - How to say we normally don't want to attempt to syllable check choruses, but sometimes do?
-- What to do about Lenox's meter, which includes the chorus
+- What to do about Lenox's meter, which includes the chorus. Ans: It's not a chorus :)
 - Best practice for numbering?
 - Better to use numeric meters, or names, or some entity?
