@@ -1,6 +1,6 @@
 # Sacred Harp in TEI
 
-Mostly for learning TEI :)
+Mostly for learning TEI 😊
 
 Questions:
 
