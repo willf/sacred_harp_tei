@@ -10,3 +10,5 @@ Questions:
 - What to do about Lenox's meter, which includes the chorus. Ans: It's not a chorus :)
 - Best practice for numbering?
 - Better to use numeric meters, or names, or some entity?
+
+<!-- This is a random comment at the end to be ignored -->
