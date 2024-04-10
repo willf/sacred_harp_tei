@@ -9,4 +9,4 @@ Questions:
 - How to say we normally don't want to attempt to syllable check choruses, but sometimes do?
 - What to do about Lenox's meter, which includes the chorus
 - Best practice for numbering?
-- Better to use numeric meters, or names, or some entity ?
+- Better to use numeric meters, or names, or some entity?
