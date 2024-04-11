@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saints bound for heaven</title>
+                <author>Isaac Watts</author>
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+          <div n="35" met="7,6,7,6">
+            <title>Saints bound for heaven</title>
+            <author>Isaac Watts</author>
+            <lg n="1" type="verse">
+                <l n="1">Our bondage, it shall end <seg type="interrupting">by and by;</seg></l>
+                <l n="2">From Egypt’s yoke set free,</l>
+                <l n="3">Hail the glorious jubilee,</l>
+                <l n="4">And to Canaan we’ll return <seg type="interrupting">by and by.</seg></l>
+            </lg>
+            <lg n="2" type="verse">
+                <l n="1">Our Deliv’rer, He shall come <seg type="interrupting">by and by;</seg></l>
+                <l n="2">And our sorrows have an end,</l>
+                <l n="3">With our threescore years and ten,</l>
+                <l n="4">And vast glory crown the day <seg type="interrupting">by and by.</seg></l>
+            </lg>
+            <lg n="3" type="verse">
+                <l n="1">Though our enemies are strong, <seg type="interrupting">We’ll go on;</seg></l>
+                <l n="2">Though our hearts dissolve with fear,</l>
+                <l n="3">Lo, Sinai’s God is near,</l>
+                <l n="4">While the fiery pillar moves, <seg type="interrupting">we’ll go on.</seg></l>
+            </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
