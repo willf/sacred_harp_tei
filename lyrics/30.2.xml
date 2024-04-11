@@ -4,6 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Prospect</title>
+                <author>Isaac Watts</author>
             </titleStmt>>
         </fileDesc>
     </teiHeader>
@@ -11,6 +12,7 @@
         <body>
           <div n="30.2" met="8,8,8,8">
             <title>Prospect</title>
+            <author>Isaac Watts</author>
             <lg n="1" type="verse">
                 <l n="1">Why should we start and fear to die?</l>
                 <l n="2">What tim’rous worms we mortals are!</l>
