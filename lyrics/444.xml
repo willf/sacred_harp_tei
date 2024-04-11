@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -16,7 +17,6 @@
     <author>Isaac Watts</author>
     <composer>Amariah Hall</composer>
     <lg n="1" type="verse">
-      <l n="1">Oh, if my Lord would come and meet,</l>
       <l n="2">My soul should stretch her wings in haste,</l>
       <l n="3">Fly fearless through death’s iron gate,</l>
       <l n="4">Nor feel the terrors as she passed.</l>

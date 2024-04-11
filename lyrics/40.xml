@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -6,10 +7,8 @@
       </titleStmt>
     </fileDesc>
   </teiHeader>
-  <text>
     <body>
-      <div n="1" met="6,6,6,6,8,8">
-        <title>Lenox</title>
+      <div n="40" met="6,6,8,8,8,8">
         <lg n="1" type="verse">
           <l n="1">Blow ye the trumpet blow,</l>
           <l n="2">The gladly solemn sound,</l>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prospect</title>
+            </titleStmt>>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+          <div n="30.2" met="8,8,8,8">
+            <title>Prospect</title>
+            <lg n="1" type="verse">
+                <l n="1">Why should we start and fear to die?</l>
+                <l n="2">What tim’rous worms we mortals are!</l>
+                <l n="3">Death is the gate to endless joy,</l>
+                <l n="4">And yet we dread to enter there.</l>
+            </lg>
+            <lg n="2" type="verse">
+                <l n="1">The pains, the groans, the dying strife</l>
+                <l n="2">Fright our approaching souls away;</l>
+                <l n="3">And we shrink back again to life,</l>
+                <l n="4">Fond of our prison and our clay.</l>
+            </lg>
+            <lg n="3" type="verse">
+                <l n="1">Oh, if my Lord would come and meet,</l>
+                <l n="2">My soul would stretch her wings in haste,</l>
+                <l n="3">Fly fearless through death’s iron gate,</l>
+                <l n="4">Nor feel the terrors as she passed.</l>
+            </lg>
+            <lg n="4" type="verse">
+                <l n="1">Jesus can make a dying bed</l>
+                <l n="2">Feel soft as downy pillows are,</l>
+                <l n="3">While on His breast I lean my head,</l>
+                <l n="4">And breathe my life out sweetly there.</l>
+            </lg>
+         </div>
+      </body>
+    </text>
+</TEI>
