@@ -5,10 +5,15 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>All saints new</title>
+        <title>All Saints New</title>
         <author>Isaac Watts</author>
-        <composer>Amariah Hall</composer>
       </titleStmt>
+      <publicationStmt>
+        <p>Tbd</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Tbd</p>
+      </sourceDesc>
     </fileDesc>
   </teiHeader>
 <text>
