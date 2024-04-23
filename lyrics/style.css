@@ -1,0 +1,55 @@
+body {
+  font-family: 'Georgia', sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+  line-height: 1.6;
+  margin: 0;
+  padding: 20px;
+}
+
+div[met] {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+title {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-align: center;
+  color: #333;
+}
+
+author {
+  display: block;
+  font-size: 1.2em;
+  font-style: italic;
+  text-align: center;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+lg {
+  margin-bottom: 20px;
+}
+
+l {
+  display: block;
+  margin-bottom: 5px;
+}
+
+l:before {
+  content: attr(n);
+  font-size: 0.8em;
+  color: #999;
+  margin-right: 10px;
+}
+
+lg:last-child {
+  margin-bottom: 0;
+}
